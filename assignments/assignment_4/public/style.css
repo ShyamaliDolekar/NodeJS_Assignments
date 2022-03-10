@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(221, 180, 221);
+    text-decoration: none;
+}
+
+.null-entry{
+    padding: 5px;
+    color: deeppink;
+}
+
+.promoted-entry{
+    padding: 5px;
+    color: purple;
+}
+
+.demoted-entry{
+    color:palevioletred;
+}
+button{
+    padding: 10px;
+    margin:5px;
+}
